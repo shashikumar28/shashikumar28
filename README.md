@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shashikumar28
 - 👀 I’m interested in . create frontend project
 - 🤝 I’m looking to collaborate on frontend web developer
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning git and github
 - 📫 How to reach me . sammysingh920518@gmail.com
 - ⚡ Fun fact: .I enjoying crateing  project more learning
 
