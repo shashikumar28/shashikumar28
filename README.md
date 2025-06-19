@@ -50,19 +50,14 @@
 
 ---
 
-### 📊 GitHub Stats 
 
+### 👨‍💻 GitHub Stats
 
-### 🏆 GitHub Stats:
+![Shashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashikumar28&show_icons=true&theme=tokyonight)
 
-![shashikumar28 GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-shashikumar28&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashikumar28&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-shashikumar28&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-shashikumar28&layout=compact&theme=tokyonight)
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikumar28&layout=compact&theme=tokyonight)
 
 
 
