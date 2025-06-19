@@ -51,13 +51,10 @@
 ---
 
 
-### 👨‍💻 GitHub Stats
-
-![Shashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashikumar28&show_icons=true&theme=tokyonight)
+### 🔥 my github stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashikumar28&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikumar28&layout=compact&theme=tokyonight)
 
 
 
