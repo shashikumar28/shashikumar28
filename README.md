@@ -50,15 +50,18 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats 
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashikumar28&show_icons=true&locale=en&theme=dark" alt="shashikumar28" width="48%" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashikumar28&theme=dark" alt="shashikumar28" width="48%" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwatk806&layout=compact&langs_count=8&theme=dark" alt="Most Used Languages" width="48%" />
-</p>
+
+### 🏆 GitHub Stats:
+
+![shashikumar28 GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-shashikumar28&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-shashikumar28&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-shashikumar28&layout=compact&theme=tokyonight)
+
+
 
 
 
